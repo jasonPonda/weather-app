@@ -21,14 +21,6 @@ let weather = {
                 return reponse.json()
             })
             .then((data) => this.displayWeather(data))
-
-        let array = []
-
-        let todo = localStorage.getItem('city')
-        array = JSON.parse(todo)
-        array.push(`${city.value}`)
-        city.value = ""
-        localStorage.setItem('city', JSON.stringify(array))
     },
     displayWeather: function (data) {
 
