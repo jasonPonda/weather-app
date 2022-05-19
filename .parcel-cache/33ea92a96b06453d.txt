@@ -179,7 +179,7 @@
 82/home/jason/git-training/weather-app/node_modules/term-size/vendor/macos/term-size1652946575224526200 0
 82/home/jason/git-training/weather-app/node_modules/term-size/vendor/macos/.DS_Store1652946574221974100 0
 69/home/jason/git-training/weather-app/node_modules/term-size/readme.md1652946593956188200 0
-46/home/jason/git-training/weather-app/style.css1652796298907650900 0
+46/home/jason/git-training/weather-app/style.css1652960783244791600 0
 67/home/jason/git-training/weather-app/node_modules/term-size/license1652946574432689900 0
 70/home/jason/git-training/weather-app/node_modules/term-size/index.d.ts1652946594294154100 0
 59/home/jason/git-training/weather-app/node_modules/term-size1652946594153633000 1
@@ -1513,7 +1513,7 @@
 91/home/jason/git-training/weather-app/node_modules/@parcel/packager-html/lib/HTMLPackager.js1652946576832727300 0
 85/home/jason/git-training/weather-app/node_modules/svgo/lib/svgo/css-select-adapter.js1652946598076097200 0
 101/home/jason/git-training/weather-app/node_modules/@babel/highlight/node_modules/color-name/.npmignore1652946572985419600 0
-59/home/jason/git-training/weather-app/dist/index.c36f364e.js1652949821981775700 0
+59/home/jason/git-training/weather-app/dist/index.c36f364e.js1652960676977461300 0
 100/home/jason/git-training/weather-app/node_modules/@swc/helpers/lib/_unsupported_iterable_to_array.js1652946603185577100 0
 93/home/jason/git-training/weather-app/node_modules/caniuse-lite/data/features/sharedworkers.js1652946628387339600 0
 88/home/jason/git-training/weather-app/node_modules/@parcel/runtime-js/src/helpers/browser1652946602744203200 1
@@ -1633,7 +1633,7 @@
 81/home/jason/git-training/weather-app/node_modules/caniuse-lite/data/regions/TR.js1652946630238563900 0
 100/home/jason/git-training/weather-app/node_modules/@parcel/core/test/fixtures/custom-format-infer-ext1652946619123556400 1
 74/home/jason/git-training/weather-app/node_modules/entities/lib/decode.d.ts1652946597750136300 0
-41/home/jason/git-training/weather-app/dist1652949822059875700 1
+41/home/jason/git-training/weather-app/dist1652960783416794000 1
 104/home/jason/git-training/weather-app/node_modules/@parcel/node-resolver-core/test/fixture/nested/test.js1652946611892696400 0
 95/home/jason/git-training/weather-app/node_modules/@parcel/bundler-default/lib/DefaultBundler.js1652946590882530300 0
 97/home/jason/git-training/weather-app/node_modules/@parcel/core/lib/requests/WriteBundleRequest.js1652946618897509700 0
@@ -1721,7 +1721,7 @@
 87/home/jason/git-training/weather-app/node_modules/@parcel/core/test/PublicAsset.test.js1652946614743270100 0
 76/home/jason/git-training/weather-app/node_modules/@parcel/core/test/fixtures1652946620189428500 1
 81/home/jason/git-training/weather-app/node_modules/caniuse-lite/data/regions/GF.js1652946620938374100 0
-64/home/jason/git-training/weather-app/dist/index.3a01df49.css.map1652949821908873300 0
+64/home/jason/git-training/weather-app/dist/index.3a01df49.css.map1652960783411794100 0
 96/home/jason/git-training/weather-app/node_modules/caniuse-lite/data/features/devicepixelratio.js1652946618801207000 0
 81/home/jason/git-training/weather-app/node_modules/css-select/lib/pseudo-selectors1652946598471600900 1
 75/home/jason/git-training/weather-app/node_modules/@lezer/lr/dist/parse.d.ts1652946580691784400 0
@@ -1747,11 +1747,11 @@
 97/home/jason/git-training/weather-app/node_modules/@parcel/package-manager/src/NodeResolverSync.js1652946603388868900 0
 98/home/jason/git-training/weather-app/node_modules/@parcel/core/test/fixtures/common-targets-ignore1652946618928747900 1
 92/home/jason/git-training/weather-app/node_modules/caniuse-lite/data/features/input-search.js1652946623788635800 0
-63/home/jason/git-training/weather-app/dist/index.c36f364e.js.map1652949821981775700 0
+63/home/jason/git-training/weather-app/dist/index.c36f364e.js.map1652960676977461300 0
 83/home/jason/git-training/weather-app/node_modules/@swc/helpers/scripts/generator.sh1652946603660021800 0
 92/home/jason/git-training/weather-app/node_modules/@babel/helper-validator-identifier/scripts1652946573951313800 1
 84/home/jason/git-training/weather-app/node_modules/cosmiconfig/dist/ExplorerSync.d.ts1652946598006376300 0
-60/home/jason/git-training/weather-app/dist/index.3a01df49.css1652949821900864100 0
+60/home/jason/git-training/weather-app/dist/index.3a01df49.css1652960783407794100 0
 64/home/jason/git-training/weather-app/node_modules/semver/LICENSE1652946572475971600 0
 93/home/jason/git-training/weather-app/node_modules/caniuse-lite/data/features/web-animation.js1652946631294602400 0
 72/home/jason/git-training/weather-app/node_modules/@parcel/config-default1652946593237505600 1
@@ -1961,7 +1961,7 @@
 81/home/jason/git-training/weather-app/node_modules/caniuse-lite/data/regions/YE.js1652946632303571600 0
 95/home/jason/git-training/weather-app/node_modules/@parcel/core/test/fixtures/library-scopehoist1652946620140057700 1
 77/home/jason/git-training/weather-app/node_modules/@parcel/runtime-browser-hmr1652946594273016600 1
-45/home/jason/git-training/weather-app/index.js1652949768852585700 0
+45/home/jason/git-training/weather-app/index.js1652960676803440100 0
 76/home/jason/git-training/weather-app/node_modules/@parcel/cache/src/types.js1652946587331696300 0
 82/home/jason/git-training/weather-app/node_modules/lmdb/dependencies/lmdb/libraries1652946574507592000 1
 67/home/jason/git-training/weather-app/node_modules/@parcel/codeframe1652946606191870100 1
