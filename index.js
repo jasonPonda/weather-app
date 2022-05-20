@@ -1,6 +1,7 @@
+import clock2 from './clock2'
 
 /*SUBSCRIBE HERE FOR API KEY: https://home.openweathermap.org/users/sign_up*/
-const apiKey = "9534500b6d692527c7b3f475ffc1de7f";
+export const apiKey = "9534500b6d692527c7b3f475ffc1de7f";
 
 let weather = {
     apiKey: "9534500b6d692527c7b3f475ffc1de7f",
@@ -60,23 +61,7 @@ document.querySelector('.search-bar').addEventListener('keydown', function (even
 //horloge
 clock2();
 
-function clock2() {
-    const date = new Date();
-    const hours = ((date.getHours() + 11) % 12 + 1);
-    const minutes = date.getMinutes();
-    const seconds = date.getSeconds();
-    const hour = hours * 30;
-    const minute = minutes * 6;
-    const second = seconds * 6;
 
-    document.querySelector('.heure').style.transform = `rotate(${hour}deg)`;
-
-    document.querySelector('.minute').style.transform = `rotate(${minute}deg)`;
-
-    document.querySelector('.seconde').style.transform = `rotate(${second}deg)`;
-}
-
-setInterval(clock2, 1000);
 
 
 
