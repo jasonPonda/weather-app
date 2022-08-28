@@ -14,4 +14,4 @@ In this challenge I will use and consolidate my knowledge on:
 I have been sent abroad for a 10-month work mission. My family and friends back home ask me about the weather where I live ALL. THE. TIME.
 Enough is enough, I decide to build a small web application for them so that I can free my time to talk about more interesting topics.
 
-
+![weather](images/weather-app.png)
